@@ -1,0 +1,23 @@
+{
+  "name": "やきたてぐらふてぃ",
+  "author": "やきたてぐらふてぃ",
+  "id": "com.yakigura.vpm",
+  "url": "https://yakigura.github.io/QvShape/index.json",
+  "packages": {
+    "com.yakigura.qvshape": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.yakigura.qvshape",
+          "version": "1.0.0",
+          "displayName": "QvShape",
+          "description": "VRChat World Gimmick QvShape",
+          "unity": "2022.3",
+          "url": "https://github.com/Yakigura/QvShape/releases/download/v1.0.0/com.yakigura.qvshape-v1.0.0.zip",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.7.0"
+          }
+        }
+      }
+    }
+  }
+}
