@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QvShape VPM Repository</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 50px 20px; background: #f9f9f9; }
+    .card { background: white; max-width: 500px; margin: 0 auto; padding: 30px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+    h1 { font-size: 24px; margin-bottom: 20px; }
+    .btn { display: inline-block; padding: 12px 24px; background: #228be6; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; margin-top: 20px; }
+  </style>
+  <script>
+    // ページが開いた瞬間に自動でVCC起動を呼び出す
+    window.location.href = "vcc://vpm/addRepo?url=https://yakigura.github.io/QvShape/index.json";
+  </script>
+</head>
+<body>
+  <div class="card">
+    <h1>QvShape VPM Repository</h1>
+    <p>VCC（VRChat Creator Companion）の起動ダイアログが表示されます。<br>「開く」を押してリポジトリを追加してください。</p>
+    <a class="btn" href="vcc://vpm/addRepo?url=https://yakigura.github.io/QvShape/index.json">VCCに追加する</a>
+  </div>
+</body>
+</html>
