@@ -213,9 +213,11 @@ Auto Setup で生成される `UI_Panel` は通常の GameObject です。**設�
 
 本アセットのご利用にあたっては、頒布ページに記載の利用規約への同意が必要です。ダウンロードまたは使用をもって、規約に同意したものとみなします。
 
+- 頒布ページ: https://yakitategraffiti.booth.pm/items/8783387
+
 ---
 
-## クレジット
+## クレジット・謝辞
 
 - **QvShape** — Developed by **Negiyaki**
 - **QvPen** — Developed by **ureishi 氏** / https://65536.booth.pm/items/1555789
