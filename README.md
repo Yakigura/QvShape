@@ -2,7 +2,7 @@
 
 **QvPen 非破壊型 図形描画 & スナップ拡張システム**
 
-Version 1.0.0 / Developed by Negiyaki
+Version 1.0.1 / Developed by Negiyaki
 
 ---
 
